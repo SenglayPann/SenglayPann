@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SenglayPann
-- 👀 I’m interested in full-stack devcelopment, frontend devcelopment and back-end development
+- 👀 I’m interested in full-stack development, frontend development and back-end development
 - 🌱 I’m currently learning Software Engineering
 
 # 📒[Check my notion](https://www.notion.so/My-Journey-To-Become-A-Professional-Full-Stack-Developer-eaa290e9abb844038d619013d32e657b)
