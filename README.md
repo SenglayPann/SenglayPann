@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @SenglayPann
 
-Senglay v22.9.0
+Senglay v22.9.3
 
 Release Note:
-- Lock In
-- Hehe
-- ❤️‍🔥🤝🧠
+- No more release notes
 - # 📒[Check my notion](https://www.notion.so/My-Journey-To-Become-A-Professional-Full-Stack-Developer-eaa290e9abb844038d619013d32e657b)
 
 
